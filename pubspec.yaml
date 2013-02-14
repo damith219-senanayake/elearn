@@ -1,0 +1,7 @@
+name: elearn
+description: A sample web application
+dependencies:
+  mongo_dart:
+    git: https://github.com/vadimtsushko/mongo_dart.git
+  json_object: any
+  browser: any
